@@ -1,5 +1,5 @@
 # NOTE
-Pastebin is broken. trying to fixthat now.
+Pastebin is broken. trying to fix that now.
 # Mimic
 
 A fully featured emulator for the [Minecraft](http://minecraft.net) mod [ComputerCraft](http://computercraft.info) that runs straight in your browser.
